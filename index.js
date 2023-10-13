@@ -12,8 +12,23 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'what is a description, installation instructions, usage information, and test instructions for your app?',
+        message: 'what is a description of this app?',
         name: 'description',
+    },
+    {
+        type: 'input',
+        message: 'what are the installation instructions for this app?',
+        name: 'install',
+    },
+    {
+        type: 'input',
+        message: 'what is the usage information for your app?',
+        name: 'usage',
+    },
+    {
+        type: 'input',
+        message: 'what are the test instructions for your app?',
+        name: 'test',
     },
     {
         type: 'list',

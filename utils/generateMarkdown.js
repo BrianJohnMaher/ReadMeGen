@@ -42,15 +42,28 @@ ${data.description}
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
+- [Contributions](#contributions)
 ${renderLicenseLink(data.license)}
+- [Questions](#questions)
 
 ## Installation
 
+${data.install}
+
 ## Usage
 
-## Credits
+${data.usage}
+
+## Contributions
+
+${data.contributions}
 
 ${renderLicenseSection(data.license) }
+
+## Questions
+
+Check out my Github Profile: [Github](https://github.com/${data.github})\n
+Please reach me at here if you have any questions: [${data.email}](${data.email})
 
 `;
 }
