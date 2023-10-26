@@ -21,6 +21,7 @@ Download the generator, and use it to create your ReadMe.
 ## Usage
 
 You would use this generator-app, when you want an easy-to-use automated-system to create your ReadMe.
+![screenshot.png](assets/images/ReadMeGen_screenshot%202.png)
 
 ## Contributions
 
@@ -29,14 +30,12 @@ Future contributors may contact me, directly, to discuss any plans.
 ## License
 
 This application is covered under license: a.
-  
 
 ## Questions
 
-Check out my Github Profile: [Github](https://github.com/BrianJohnMaher)
+My Github Profile: [Github](https://github.com/BrianJohnMaher)
 
-Please reach me at here if you have any questions: [BMaher22@mac.com](BMaher22@mac.com)
+Should you have gurther questions, reach me here: [BMaher22@mac.com](BMaher22@mac.com)
 
-
-[![ReadMeGen.mp4](https://drive.google.com/uc?export=download&id=ReadMeGen.mp4)](https://drive.google.com/file/d/ReadMeGen.mp4/view)
+Here is a link to the youtube demo-video: [README Generator Video](https://youtu.be/D6wg-6ikeig)
 
